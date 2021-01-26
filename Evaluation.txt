@@ -1,0 +1,13 @@
+Evaluating models - 
+
+1. Linear Regression()-
+    Mean :  -26.390880952676913
+    Standard Deviation:  11.901494138197762
+
+2. Decision Tree regressor()-
+    mean: -17.70671097560976
+    standard deviation: 6.096930079697667    
+    
+3. Random Forest Regressor()-
+    Mean :  -11.31918035463414
+    Standard Deviation:  5.0116010064160434
