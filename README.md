@@ -1,5 +1,5 @@
 # Predicting-prices-of-Real-Estate
-## This model is for helping in predicting prices of real estate <br> 
+## This model is for helping in predicting prices of real estate in Boston ,USA <br> 
 Its is bassed upon Random tree Regressor
 <br>
 <br>
